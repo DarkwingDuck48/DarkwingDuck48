@@ -17,7 +17,7 @@
     </a>
   </div>
  
- ### 💻 В работе использую технологии:
+ ### 💻 В работе использую:
 <div>
   <img src="https://www.sprezzatech.com/wiki/images/1/10/Jython.svg" title="jython" alt="jython" width="60" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
