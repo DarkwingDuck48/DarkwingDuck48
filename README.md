@@ -17,6 +17,17 @@
     </a>
   </div>
  
+ ### 💻 В работе использую технологии:
+<div>
+  <img src="https://www.sprezzatech.com/wiki/images/1/10/Jython.svg" title="jython" alt="jython" width="60" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+</div>
+
 ### 🧑‍💼 Участие в проектах 
 | Проект                        | Роль            | Технологии | Результат |
 |-------------------------------|-----------------| ---------- | --------- |
@@ -30,16 +41,6 @@
 
 [![Max Britvin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=DarkwingDuck48)](https://github.com/DarkwingDuck48/)
 
-### 💻 В работе использую технологии:
-<div>
-  <img src="https://www.sprezzatech.com/wiki/images/1/10/Jython.svg" title="jython" alt="jython" width="60" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-</div>
 
 ### IDE
 <div>
