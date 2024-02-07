@@ -49,7 +49,7 @@
 
 ### Сейчас изучаю
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
 Иногда решаю задачи с LeetCode
