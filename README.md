@@ -2,7 +2,7 @@
 
 ### :man_technologist: Обо мне:
 Я старший консультант-разработчик в компании [Корус Консалтинг](https://korusconsulting.ru/).
-Моя работа связана с внедрением и кастомизацией под требования заказчика таких продуктов от Oracle как:
+Моя работа связана с внедрением и кастомизацией под требования заказчика продуктов от различных вендоров:
  - [FDMEE](https://docs.oracle.com/en/applications/enterprise-performance-management/11.2/hittr/datamgt_1x.html) 
  - [DRM](https://www.oracle.com/cis/performance-management/data-relationship-management)
  - [Форсайт](https://www.fsight.ru/)
