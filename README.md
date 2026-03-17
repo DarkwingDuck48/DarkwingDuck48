@@ -1,11 +1,14 @@
 # Привет, меня зовут Максим!
 
 ### :man_technologist: Обо мне:
-Я старший консультант-разработчик в компании [Корус Консалтинг](https://korusconsulting.ru/).
+Я старший консультант-разработчик в компании [Корус Консалтинг EPM]([https://korusconsulting.ru/](https://career.korusconsulting.ru/departments/epm/).
 Моя работа связана с внедрением и кастомизацией под требования заказчика продуктов от различных вендоров:
  - [FDMEE](https://docs.oracle.com/en/applications/enterprise-performance-management/11.2/hittr/datamgt_1x.html) 
  - [DRM](https://www.oracle.com/cis/performance-management/data-relationship-management)
  - [Форсайт](https://www.fsight.ru/)
+ - [Knowledge Space](https://im.systems/)
+
+На данный момент я занимаюсь разработкой **собственного** ETQL решения для загрузки финансовых данных в системы бюджетирования. Подробнее о продукте можно узнать [здесь](https://planning.korusconsulting.ru/etql)
 
 
 ### 📝 Статьи
@@ -19,6 +22,10 @@
 | -------------------- | ------------| --------- |
 | Certified Basic | 26.10.2023 | Форсайт. Аналитическая платформа |
 | Certified Application Developer | 14.12.2023 | Форсайт. Аналитическая платформа |
+| Базовый Knowledge Space | 11.04.2025 | Knowledge Space|
+| Продвинутый Knowledge Space | 28.04.2025 | Knowledge Space|
+| Экспертный Knowledge Space | 18.08.2025 | Knowledge Space|
+| Интеграция СУБД | 18.08.2025 | Knowledge Space|
 
 ### 🤝 Социальные сети:
 
