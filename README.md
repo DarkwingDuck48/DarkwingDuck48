@@ -15,7 +15,10 @@
 - [YouTube](https://youtu.be/K8KZZ2p8TPQ)
 - [Rutube](https://rutube.ru/video/e3be34b1f3e0b0c261662914c1161aaa/)
 
-
+### RS Project
+В свободное время я создаю отдельный продукт [RS Project](https://github.com/DarkwingDuck48/rsproject). Он совсем молодой, но крайне амбициозный. Главная задача - сделать Open Source аналог MS Project, чтобы планировать и реализовывать проекты стало удобнее и быстрее (потому что написан он на RUST).
+Проект находится на очень ранней стадии разработки, планируемые фичи на ближайший релиз можно найти в [Issues](https://github.com/DarkwingDuck48/rsproject/issues)
+Буду рад помощи, если появится такое желание!🤝
 
 
 ### 📝 Статьи
