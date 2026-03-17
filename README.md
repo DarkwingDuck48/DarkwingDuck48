@@ -1,7 +1,7 @@
 # Привет, меня зовут Максим!
 
 ### :man_technologist: Обо мне:
-Я старший консультант-разработчик в компании [Корус Консалтинг EPM]([https://korusconsulting.ru/](https://career.korusconsulting.ru/departments/epm/).
+Я старший консультант-разработчик в компании [Корус Консалтинг EPM](https://career.korusconsulting.ru/departments/epm/).
 Моя работа связана с внедрением и кастомизацией под требования заказчика продуктов от различных вендоров:
  - [FDMEE](https://docs.oracle.com/en/applications/enterprise-performance-management/11.2/hittr/datamgt_1x.html) 
  - [DRM](https://www.oracle.com/cis/performance-management/data-relationship-management)
