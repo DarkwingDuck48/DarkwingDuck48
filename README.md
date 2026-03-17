@@ -13,7 +13,7 @@
 На данный момент я активно занимаюсь разработкой **собственного** [ETQL](https://planning.korusconsulting.ru/etql) решения для загрузки финансовых данных в системы бюджетирования. 
 Живая демонстрация решения:
 - [YouTube](https://youtu.be/K8KZZ2p8TPQ)
-- [Rutube](https://rutube.ru/video/4f598ba01f62236fa02da4e082122bb6/](https://rutube.ru/video/e3be34b1f3e0b0c261662914c1161aaa)
+- [Rutube](https://rutube.ru/video/e3be34b1f3e0b0c261662914c1161aaa/)
 
 
 
