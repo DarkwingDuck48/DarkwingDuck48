@@ -62,7 +62,7 @@
 | Базовый Knowledge Space | 11.04.2025 | Knowledge Space|
 | Продвинутый Knowledge Space | 28.04.2025 | Knowledge Space|
 | Экспертный Knowledge Space | 18.08.2025 | Knowledge Space|
-| Интеграция СУБД | 18.08.2025 | Knowledge Space|
+| Интеграция СУБД | 11.03.2026 | Knowledge Space|
  
 ### 🧑‍💼 Участие в проектах 
 | Проект                        | Роль            | Технологии | Результат |
