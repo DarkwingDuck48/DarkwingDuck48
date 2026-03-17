@@ -48,7 +48,6 @@
  
  ### 💻 В работе использую:
 <div>
-  <img src="https://www.sprezzatech.com/wiki/images/1/10/Jython.svg" title="jython" alt="jython" width="60" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp;
@@ -57,6 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🧑‍💼 Участие в проектах 
@@ -69,8 +69,3 @@
 | Создание пакетов сбора данных для загрузки финансовых показателей | Разработчик | Excel, VBA | Создан удобный файл ввода данных с автоматическим проверками введенных данных |
 | Реализация стандарта МСФО "Запасы" для SAP BPC | Разработчик | SAP BODS, SAP BI, MS SQL, T-SQL | Был полностью реализован расчет стандарта "Запасы" по методике FIFO для более чем 1000 мест хранения, с учетом перемещения между местами хранения |
 | Разработка системы автоматической загрузки НСИ | Разработчик | Jython, Oracle DB | Разработан функционала для загрузки НСИ из различных источников в целевую систему с дополнительной обработкой данных перед загрузкой |
-
-### Сейчас изучаю
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-</div>
