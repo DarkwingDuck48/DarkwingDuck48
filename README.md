@@ -1,4 +1,12 @@
 # Привет, меня зовут Максим!
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/mbritvin/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="20" height="20" alt="linkedin" />
+    </a>
+    <a href="https://t.me/DarkwingDuck48" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="telegram group" />
+    </a>
+  </div>
 
 ### :man_technologist: Обо мне:
 Я старший консультант-разработчик в компании КОРУС Консалтинг в департаменте [EPM](https://career.korusconsulting.ru/departments/epm/).
@@ -10,46 +18,21 @@
 
 
 ### ETQL
-На данный момент я активно занимаюсь разработкой **собственного** [ETQL](https://planning.korusconsulting.ru/etql) решения для загрузки финансовых данных в системы бюджетирования. 
+На данный момент я активно занимаюсь разработкой продукта для загрузки финансовых данных в системы бюджетирования - [ETQL](https://planning.korusconsulting.ru/etql) . 
 Живая демонстрация решения:
 - [YouTube](https://youtu.be/K8KZZ2p8TPQ)
 - [Rutube](https://rutube.ru/video/e3be34b1f3e0b0c261662914c1161aaa/)
+****
 
 ### RS Project
 В свободное время я создаю отдельный продукт [RS Project](https://github.com/DarkwingDuck48/rsproject). Он совсем молодой, но крайне амбициозный. Главная задача - сделать Open Source аналог MS Project, чтобы планировать и реализовывать проекты стало удобнее и быстрее (потому что написан он на RUST).
-Проект находится на очень ранней стадии разработки, планируемые фичи на ближайший релиз можно найти в [Issues](https://github.com/DarkwingDuck48/rsproject/issues)
+Проект находится на очень ранней стадии разработки, планируемые фичи на ближайший релиз можно найти в [Issues](https://github.com/DarkwingDuck48/rsproject/issues).
+
 Буду рад помощи, если появится такое желание!🤝
 
+****
 
-### 📝 Статьи
-| Название статьи | Продукт | Площадка |
-| --------------- | ------- | -------|
-| [Геймификация в EPM системах: фан или крутая фича? Разбираем на примере Форсайт](https://habr.com/p/807449/) | Форсайт | Хабр |
-| [Делаем новых людей за 12 строк кода: как с Python ускорить подготовку демо-стенда по HR планированию и соблюсти закон](https://habr.com/ru/articles/829920/) | Форсайт | Хабр |
-|[Как я разработал скрипт для загрузки данных и разгрузил ИТ-отдел](https://habr.com/ru/companies/korus_consulting/articles/929554)]| ETQL | Хабр |
-
-### 🏅 Сертификаты
-| Название сертификата | Дата получения | Продукт |
-| -------------------- | ------------| --------- |
-| Certified Basic | 26.10.2023 | Форсайт. Аналитическая платформа |
-| Certified Application Developer | 14.12.2023 | Форсайт. Аналитическая платформа |
-| Базовый Knowledge Space | 11.04.2025 | Knowledge Space|
-| Продвинутый Knowledge Space | 28.04.2025 | Knowledge Space|
-| Экспертный Knowledge Space | 18.08.2025 | Knowledge Space|
-| Интеграция СУБД | 18.08.2025 | Knowledge Space|
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/mbritvin/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/DarkwingDuck48" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
- 
- ### 💻 В работе использую:
+### 💻 В работе использую:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -62,6 +45,25 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
 
+### 📝 Статьи
+| Название статьи | Продукт | Площадка |
+| --------------- | ------- | -------|
+| [Геймификация в EPM системах: фан или крутая фича? Разбираем на примере Форсайт](https://habr.com/p/807449/) | Форсайт | Хабр |
+| [Делаем новых людей за 12 строк кода: как с Python ускорить подготовку демо-стенда по HR планированию и соблюсти закон](https://habr.com/ru/articles/829920/) | Форсайт | Хабр |
+|[Как я разработал скрипт для загрузки данных и разгрузил ИТ-отдел](https://habr.com/ru/companies/korus_consulting/articles/929554)]| ETQL | Хабр |
+
+****
+
+### 🏅 Сертификаты
+| Название сертификата | Дата получения | Продукт |
+| -------------------- | ------------| --------- |
+| Certified Basic | 26.10.2023 | Форсайт. Аналитическая платформа |
+| Certified Application Developer | 14.12.2023 | Форсайт. Аналитическая платформа |
+| Базовый Knowledge Space | 11.04.2025 | Knowledge Space|
+| Продвинутый Knowledge Space | 28.04.2025 | Knowledge Space|
+| Экспертный Knowledge Space | 18.08.2025 | Knowledge Space|
+| Интеграция СУБД | 18.08.2025 | Knowledge Space|
+ 
 ### 🧑‍💼 Участие в проектах 
 | Проект                        | Роль            | Технологии | Результат |
 |-------------------------------|-----------------| ---------- | --------- |
@@ -72,3 +74,5 @@
 | Создание пакетов сбора данных для загрузки финансовых показателей | Разработчик | Excel, VBA | Создан удобный файл ввода данных с автоматическим проверками введенных данных |
 | Реализация стандарта МСФО "Запасы" для SAP BPC | Разработчик | SAP BODS, SAP BI, MS SQL, T-SQL | Был полностью реализован расчет стандарта "Запасы" по методике FIFO для более чем 1000 мест хранения, с учетом перемещения между местами хранения |
 | Разработка системы автоматической загрузки НСИ | Разработчик | Jython, Oracle DB | Разработан функционала для загрузки НСИ из различных источников в целевую систему с дополнительной обработкой данных перед загрузкой |
+
+
