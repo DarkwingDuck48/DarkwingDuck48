@@ -17,8 +17,8 @@
  - [Knowledge Space](https://im.systems/)
 
 
-### ETQL
-На данный момент я активно занимаюсь разработкой продукта для загрузки финансовых данных в системы бюджетирования - [ETQL](https://planning.korusconsulting.ru/etql) . 
+### Мапикон (ранее ETQL)
+На данный момент я активно занимаюсь разработкой продукта для загрузки финансовых данных в системы бюджетирования - [Мапикон (ранее ETQL)](https://planning.korusconsulting.ru/etql) . 
 Живая демонстрация решения:
 - [YouTube](https://youtu.be/K8KZZ2p8TPQ)
 - [Rutube](https://rutube.ru/video/e3be34b1f3e0b0c261662914c1161aaa/)
